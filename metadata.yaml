@@ -1,0 +1,30 @@
+_repo: In-Camp-With-A-Tin-Soldier_34467
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34467-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34467'
+  lccn: '06006126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Toys -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+title: In Camp With A Tin Soldier
+url: http://www.gutenberg.org/ebooks/34467
