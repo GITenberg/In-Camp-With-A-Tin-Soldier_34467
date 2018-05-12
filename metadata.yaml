@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34467#In-Camp-With-A-Tin-Soldier
 gutenberg_issued: '2010-11-28'
 gutenberg_type: Text
 identifiers:
